@@ -1,0 +1,1 @@
+//as loan amount is not getting to 0 when user pays more than what the loan is , implement this
